@@ -8,18 +8,6 @@ First you need to install yeoman generator globally. Later on, you can type belo
 
 ### yo sample-crud-angular:application
 
-![1st](https://user-images.githubusercontent.com/3886381/49565405-0e267700-f94d-11e8-9afd-6671a733e987.png)
-
-![2nd](https://user-images.githubusercontent.com/3886381/49565406-0ebf0d80-f94d-11e8-9844-ea7012b72256.png)
-
-![3rd](https://user-images.githubusercontent.com/3886381/49565407-0ebf0d80-f94d-11e8-97ad-b29de3eff9b1.png)
-
-![4th](https://user-images.githubusercontent.com/3886381/49565408-0f57a400-f94d-11e8-9a3e-b444ebfce8f7.png)
-
-![5th](https://user-images.githubusercontent.com/3886381/49565409-0ff03a80-f94d-11e8-95d6-f80cd4d7f26b.png)
-
-![6th](https://user-images.githubusercontent.com/3886381/49565410-0ff03a80-f94d-11e8-9e59-7b761578702c.png)
-
 ![7th](https://user-images.githubusercontent.com/3886381/49565412-1088d100-f94d-11e8-9834-4189d53bbed6.png)
 
 ![8th](https://user-images.githubusercontent.com/3886381/49565413-1088d100-f94d-11e8-9344-7f24fea1e47a.png)
